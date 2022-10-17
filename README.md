@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asfvin. I am currently working as a Machine Learning Engineer in an Insurance Company. Previously I worked as a Data Scientist and a Financial Analyst. 
-- 👀 I’m interested in technology (Although I am not very up to date), Economics (same case with Tech) and Cinema
+- 👀 I’m interested in extracting and generating value from data, Economics and watching Movies
 - 🌱 I’m currently learning deep learning, advanced time series, text analytics and software engineering/ architecture. My goal is to reduce my imposter syndrome and 
 - become an excellent ML Practitioner.
 - 💞️ I’m looking to collaborate on NLP, predictive pricing or NN models.
