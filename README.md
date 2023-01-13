@@ -2,9 +2,7 @@
 - 👀 I’m interested in extracting and generating value from data
 - 📫 How to reach me. Please email me at asfvin.p@gmail.com, if you are interested to know more about me. 
 
-The majority of the coding/programming that I partake on usually is on a private repository and during the rest of the day out of work.
-
-I use this repo for my practicing some of the tutorials in Master Classes
+I use this repo for practicing some of concepts that I learn and test out some of the frameworks
 
 <!---
 Asfvin/Asfvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
